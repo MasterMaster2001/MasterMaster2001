@@ -21,9 +21,12 @@ The essential components of a task will be defined later
 
 **3**-The View of the main widget should be **split** in **three** areas:
 
-The first (en persistent) area shows the list of today tasks.
-The second one is reserved for pending task (tasks for the future).
-Finally, the third one shows the set of finished tasks.
+**A**-The first (en persistent) area shows the list of today tasks.
+
+**B**-The second one is reserved for pending task (tasks for the future).
+
+**C**-Finally, the third one shows the set of finished tasks.
+
 Each category must be shown with a custom icon.
 
 The user could either hide/show the pending and finished views.
