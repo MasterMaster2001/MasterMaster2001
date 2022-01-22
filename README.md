@@ -11,3 +11,6 @@ The goal of the homework is to create an application to manage you tasks. It sho
 
 ## <span style="color:red">Use Cases:</span>
 
+* * *
+Here is a list of **cases** that the user could **perform** with our app:
+* * *
