@@ -21,15 +21,15 @@ The essential components of a task will be defined later
 
 **3**-The View of the main widget should be **split** in **three** areas:
 
-**A**-The first (en persistent) area shows the list of today tasks.
+**A**-The first (en persistent) area shows the list of **today** tasks.
 
-**B**-The second one is reserved for pending task (tasks for the future).
+**B**-The second one is reserved for **pending** task (tasks for the future).
 
-**C**-Finally, the third one shows the set of finished tasks.
+**C**-Finally, the third one shows the set of **finished** tasks.
 
-Each category must be shown with a custom icon.
+**4**-Each category must be shown with a custom icon.
 
-The user could either hide/show the pending and finished views.
+**5**-The user could either hide/show the pending and finished views.
 
-Finally, the tasks entered to your application must remains in the app in future use.
+**6**-Finally, the tasks entered to your application must remains in the app in future use.
 * * *
