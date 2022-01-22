@@ -13,4 +13,17 @@ The goal of the homework is to create an application to manage you tasks. It sho
 
 * * *
 Here is a list of **cases** that the user could **perform** with our app:
+**1**-A user should be able to **close** the application of course.
+2-A Todo application cannot be useful, unless it offers the possibility of **creating new tasks**.
+The essential components of a task will be defined later
+3-The View of the main widget should be split in three areas:
+
+The first (en persistent) area shows the list of today tasks.
+The second one is reserved for pending task (tasks for the future).
+Finally, the third one shows the set of finished tasks.
+Each category must be shown with a custom icon.
+
+The user could either hide/show the pending and finished views.
+
+Finally, the tasks entered to your application must remains in the app in future use.
 * * *
