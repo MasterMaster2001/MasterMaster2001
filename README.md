@@ -16,10 +16,10 @@ Here is a list of **cases** that the user could **perform** with our app:
 
 **1**-A user should be able to **close** the application of course.
 
-2-A Todo application cannot be useful, unless it offers the possibility of **creating new tasks**.
+**2**-A Todo application cannot be useful, unless it offers the possibility of **creating new tasks**.
 The essential components of a task will be defined later
 
-3-The View of the main widget should be split in three areas:
+**3**-The View of the main widget should be **split** in **three** areas:
 
 The first (en persistent) area shows the list of today tasks.
 The second one is reserved for pending task (tasks for the future).
