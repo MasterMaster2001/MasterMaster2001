@@ -13,7 +13,7 @@ The goal of the homework is to create an application to manage you tasks. It sho
 
 * * *
 Here is a list of **cases** that the user could **perform** with our app:
-**1**-A user should be able to **close** the application of course.
+1-A user should be able to **close** the application of course.
 2-A Todo application cannot be useful, unless it offers the possibility of **creating new tasks**.
 The essential components of a task will be defined later
 3-The View of the main widget should be split in three areas:
