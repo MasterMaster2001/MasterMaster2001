@@ -3,3 +3,6 @@
 
 ## <span style="color:red">Introduction:</span>
 
+* * *
+The goal of the homework is to create an application to manage you tasks. It should have all the features of main application such as menues, actions and toolbar. The application must store an archive of all the pending and finished tasks.
+
