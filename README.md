@@ -98,7 +98,7 @@ Stockez toutes les données dont nous avons besoin pour ce programme, il est inc
 #include <QString>
 
  ```
-     <p align=left>  <h1 align="left">D. UserDialog1.cpp:</h1></p>
+<p align=left>  <h1 align="left">D. UserDialog1.cpp:</12></p>
   
   ```cpp
 #include <QPixmap>
