@@ -7,18 +7,11 @@
   </p>
  </p>
  
- 
- % #### Programmation orientée objet (POO) :C++
-  
-  * * *                       
-% ## <span style="color:red">A COVID-19 Vaccination</span>  
- 
- * * *
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+    <h2 align="center">Programmation orientée objet (POO) :C++</h2>
+  <h3 align="center"><span style="color:red">A COVID-19 Vaccination</span></h3>
     <img src="azs (1).jpg" alt="Logo" width="800" height="360">
-  <h2 align="center">ToDo Application using containers</h2>
-  <h3 align="center">Create a versatile Todo app using (Item/Model) based containers.</h3>
 </div>
