@@ -127,6 +127,8 @@ Stockez toutes les données dont nous avons besoin pour ce programme, il est inc
   <p align=left>  <h1 align="left"> 5. Pour la page utilisateur : (bouton s'inscrire):</h1></p>
  </p>
  
- 
+ Pour les personnes qui utilisent ce système et qui se connectent pour la première fois. Vous devez d’abord entrer deux choses, et faire 
+ils sont tous corrects, et se souviennent aussi d’eux. Pour le nom d’utilisateur et le mot de passe, il peut s’agir d’une chaîne, d’un caractère, 
+nombre. Le nom d’utilisateur est Unique.
 
 
