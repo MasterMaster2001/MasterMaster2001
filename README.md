@@ -55,12 +55,13 @@ Stockez toutes les données dont nous avons besoin pour ce programme, il est inc
 
   </p>
  </p>
+![widgets](https://user-images.githubusercontent.com/93833171/151627321-5c1105c2-ae12-493d-97e9-1eb0185a06e4.jpg)
 
 
 * * *
 * * *
 <p>
-  <p align=left>  <h1 align="left">1.	Page de connexion principale (5 boutons peuvent effectuer différentes actions) :</12></p>
+  <p align=left>  <h1 align="left">3.	Page de connexion principale (5 boutons peuvent effectuer différentes actions) :</12></p>
  </p>
 
 * * *
