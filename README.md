@@ -51,7 +51,7 @@ Cette application en tant que simulation peut aider les gens à planifier facile
      <h1 align="left">2.	La mise en œuvre nécessaire pour ce programme :</h2>
       <h3 align="left">DB (Data Base) Navigateur pour SQLite :</h2>
 Stockez toutes les données dont nous avons besoin pour ce programme, il est inclus deux tables (table utilisateur, table admin)
-<h3 align="left"> Source file ( trois images:</h2>
+<h3 align="left"> Source file ( trois images):</h2>
 
   </p>
  </p>
