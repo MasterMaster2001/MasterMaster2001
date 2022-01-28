@@ -25,8 +25,8 @@
 ## Introduction:
   1. Objectif
   2. La mise en œuvre nécessaire pour ce programme.
-  3. bibliothèques nécessaires à la compilation de ce programme                                          (pour chaque fichier).
-  4. Page de connexion principale (5 boutons peuvent effectuer différentes actions)
+  3. Page de connexion principale (5 boutons peuvent effectuer différentes actions)
+  4. bibliothèques nécessaires à la compilation de ce programme                                          (pour chaque fichier).
   5. Pour la page utilisateur : (bouton s'inscrire)
   6. Pour la page utilisateur : (bouton de connexion) et boîte de dialogue suivante
   7. Pour la page d'administration : (bouton s'inscrire)
