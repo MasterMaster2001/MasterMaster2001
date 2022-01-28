@@ -58,3 +58,9 @@ Stockez toutes les données dont nous avons besoin pour ce programme, il est inc
 
 
 * * *
+* * *
+<p>
+  <p align=left>  <h1 align="left">1.	Page de connexion principale (5 boutons peuvent effectuer différentes actions) :</12></p>
+ </p>
+
+* * *
