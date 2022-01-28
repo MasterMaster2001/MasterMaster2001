@@ -81,19 +81,41 @@ Stockez toutes les données dont nous avons besoin pour ce programme, il est inc
 
   ```
    <p align=left>  <h1 align="left">B. Login.cpp:</12></p>
-   ```cpp
+   
+  ```cpp
    #include <QSqlError>
 #include <QSqlQuery>
 #include <QDebug>
 #include <QString>
 #include <QException>
 #include <QMessageBox>
+
    ```
     <p align=left>  <h1 align="left">C. User.cpp:</12></p>
+    
+    ```cpp
+ #include <iostream>
+#include <QString>
+    ```
      <p align=left>  <h1 align="left">D. UserDialog1.cpp:</12></p>
-      <p align=left>  <h1 align="left"> E. AdminDialog1.cpp:</12></p>
   
-
+  ```cpp
+#include <QPixmap>
+#include <QMessageBox>
+#include <QDebug>
+  ```
+ <p align=left>  <h1 align="left"> E. AdminDialog1.cpp:</12></p>
+  
+```cpp
+#include <QString>
+#include <QMessageBox>
+#include <QPixmap>
+#include <QTableView>
+#include <QListView>
+#include <QLineEdit>
+#include <QSqlTableModel>
+#include <QComboBox>
+  ```
      
  </p>
  * * *
