@@ -124,11 +124,16 @@ Stockez toutes les données dont nous avons besoin pour ce programme, il est inc
  * * *
  
  <p>
-  <p align=left>  <h1 align="left"> 5. Pour la page utilisateur : (bouton s'inscrire):</h1></p>
+  <p align=left>  <h1 align="left"> 5. Pour la page utilisateur : (Button Register):</h1></p>
  </p>
  
  Pour les personnes qui utilisent ce système et qui se connectent pour la première fois. Vous devez d’abord entrer deux choses, et faire 
 ils sont tous corrects, et se souviennent aussi d’eux. Pour le nom d’utilisateur et le mot de passe, il peut s’agir d’une chaîne, d’un caractère, 
 nombre. Le nom d’utilisateur est Unique.
 
+Une fois que l’utilisateur a entré deux informations, il enregistrera le nom d’utilisateur et le mot de passe dans la base de données. 
+de retour dans le système. Donc, la prochaine fois, cet administrateur a ses informations enregistrées dans la base de données.
 
+ ## Manuels d’utilisation et de logiciels
+ 
+![registrer](https://user-images.githubusercontent.com/93833171/151636964-d7670f3d-b287-4e0d-9bf5-41ba66008724.png)
