@@ -16,8 +16,25 @@
     <img src="azs (1).jpg" alt="Logo" width="800" height="360">
 </div>
 
+
+![noms](https://user-images.githubusercontent.com/93833171/151598206-f3763dd3-1a13-4fc5-983e-7aac49fe41c6.jpg)
+
+
+
+* * *
+## Introduction:
+  1. Objectif
+  2. La mise en œuvre nécessaire pour ce programme.
+  3. bibliothèques nécessaires à la compilation de ce programme                                          (pour chaque fichier).
+
+
 * * *
 
-![said_zineb_adil](https://user-images.githubusercontent.com/93833171/151596251-3b371da1-75c6-42b7-b242-440b18b91059.jpg)
+* * *
+**1.	Objectif** : Cette application en tant que simulation peut aider les gens à planifier facilement un vaccin. Quand il y a un nouveau vaccin sorti et ouvert au public, il y a beaucoup de gens qui Veulent l’obtenir, mais il est difficile de le planifier parce que les gens ont un temps de travail différent, aussi Le nombre de vaccins est limité au début. Cette application aidera l’utilisateur à s’inscrire, choisir les vaccins et planifier leurs rendez-vous. Pour le système d’administration, l’administrateur peut vérifier les informations de l’utilisateur et être en mesure d’enregistrer, de modifier, de mettre à jour et de supprimer toutes informations dans le système.
+
+**2.	La mise en œuvre nécessaire pour ce programme :**
+ 	DB (Data Base) Navigateur pour SQLite :
+Stockez toutes les données dont nous avons besoin pour ce programme, il est inclus deux tables (table utilisateur, table admin)
 
 * * *
