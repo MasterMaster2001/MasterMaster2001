@@ -72,7 +72,7 @@ Stockez toutes les données dont nous avons besoin pour ce programme, il est inc
  
  * * *
  <p>
-  <p align=left>  <h1 align="left">A. main.cpp :</h1></p>
+  <p align=left>  <h1 align="left">A. main.cpp :</12></p>
   
   ```cpp
 #include <QApplication>
@@ -80,7 +80,7 @@ Stockez toutes les données dont nous avons besoin pour ce programme, il est inc
 #include <QPushButton
 
   ```
-   <p align=left>  <h1 align="left">B. Login.cpp:</h1></p>
+   <p align=left>  <h1 align="left">B. Login.cpp:</12></p>
    
   ```cpp
 #include <QSqlError>
@@ -91,7 +91,7 @@ Stockez toutes les données dont nous avons besoin pour ce programme, il est inc
 #include <QMessageBox>
 
    ```
-<p align=left>  <h1 align="left">C. User.cpp:</h1></p>
+<p align=left>  <h1 align="left">C. User.cpp:</12></p>
     
  ```cpp
 #include <iostream>
