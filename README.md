@@ -137,3 +137,9 @@ de retour dans le système. Donc, la prochaine fois, cet administrateur a ses in
  ## Manuels d’utilisation et de logiciels
  
 ![registrer](https://user-images.githubusercontent.com/93833171/151636964-d7670f3d-b287-4e0d-9bf5-41ba66008724.png)
+
+ <p>
+  <p align=left>  <h1 align="left"> 6. Pour la page utilisateur : (Button Login) et boîte de dialogue suivante</h1></p>
+ </p>
+
+
