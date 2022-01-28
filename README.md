@@ -64,4 +64,5 @@ Stockez toutes les données dont nous avons besoin pour ce programme, il est inc
  </p>
 
 * * *
-![widgets](https://user-images.githubusercontent.com/93833171/151627426-16076394-5329-4e58-b304-ab97ec8c27fd.jpg)
+![logo](https://user-images.githubusercontent.com/93833171/151628427-cfe54515-74d0-4b50-980c-e016c791722e.jpg)
+
