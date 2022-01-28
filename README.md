@@ -55,7 +55,6 @@ Stockez toutes les données dont nous avons besoin pour ce programme, il est inc
 
   </p>
  </p>
-![widgets](https://user-images.githubusercontent.com/93833171/151627321-5c1105c2-ae12-493d-97e9-1eb0185a06e4.jpg)
 
 
 * * *
@@ -65,3 +64,4 @@ Stockez toutes les données dont nous avons besoin pour ce programme, il est inc
  </p>
 
 * * *
+![widgets](https://user-images.githubusercontent.com/93833171/151627426-16076394-5329-4e58-b304-ab97ec8c27fd.jpg)
