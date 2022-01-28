@@ -63,6 +63,6 @@ Stockez toutes les données dont nous avons besoin pour ce programme, il est inc
   <p align=left>  <h1 align="left">3.	Page de connexion principale (5 boutons peuvent effectuer différentes actions) :</12></p>
  </p>
 
-* * *
-![logo](https://user-images.githubusercontent.com/93833171/151628427-cfe54515-74d0-4b50-980c-e016c791722e.jpg)
 
+![logo](https://user-images.githubusercontent.com/93833171/151628427-cfe54515-74d0-4b50-980c-e016c791722e.jpg)
+* * *
