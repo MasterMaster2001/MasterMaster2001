@@ -66,3 +66,7 @@ Stockez toutes les données dont nous avons besoin pour ce programme, il est inc
 
 ![logo](https://user-images.githubusercontent.com/93833171/151628427-cfe54515-74d0-4b50-980c-e016c791722e.jpg)
 * * *
+<p>
+  <p align=left>  <h1 align="left">4. bibliothèques nécessaires à la compilation de ce programme (pour chaque fichier):</12></p>
+ </p>
+
