@@ -7,5 +7,5 @@
   </p>
  </p>
  
-                                         ##Programmation orientée objet (POO) :C++
+                                         ## Programmation orientée objet (POO) :C++
  
