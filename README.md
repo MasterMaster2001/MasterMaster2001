@@ -69,4 +69,34 @@ Stockez toutes les données dont nous avons besoin pour ce programme, il est inc
 <p>
   <p align=left>  <h1 align="left">4. bibliothèques nécessaires à la compilation de ce programme (pour chaque fichier):</12></p>
  </p>
+ 
+ * * *
+ <p>
+  <p align=left>  <h1 align="left">A. main.cpp :</12></p>
+  
+  ```cpp
+  #include <QApplication>
+#include <QTabWidget> 
+#include <QPushButton
+
+  ```
+   <p align=left>  <h1 align="left">B. Login.cpp:</12></p>
+   ```cpp
+   #include <QSqlError>
+#include <QSqlQuery>
+#include <QDebug>
+#include <QString>
+#include <QException>
+#include <QMessageBox>
+   ```
+    <p align=left>  <h1 align="left">C. User.cpp:</12></p>
+     <p align=left>  <h1 align="left">D. UserDialog1.cpp:</12></p>
+      <p align=left>  <h1 align="left"> E. AdminDialog1.cpp:</12></p>
+  
+
+     
+ </p>
+ * * *
+ 
+ 
 
