@@ -91,18 +91,20 @@ Stockez toutes les données dont nous avons besoin pour ce programme, il est inc
 #include <QMessageBox>
 
    ```
-    <p align=left>  <h1 align="left">C. User.cpp:</h1></p>
+<p align=left>  <h1 align="left">C. User.cpp:</h1></p>
     
-    ```cpp
- #include <iostream>
+ ```cpp
+#include <iostream>
 #include <QString>
-    ```
-     <p align=left>  <h1 align="left">D. UserDialog1.cpp:</12></p>
+
+ ```
+     <p align=left>  <h1 align="left">D. UserDialog1.cpp:</h1></p>
   
   ```cpp
 #include <QPixmap>
 #include <QMessageBox>
 #include <QDebug>
+
   ```
  <p align=left>  <h1 align="left"> E. AdminDialog1.cpp:</12></p>
   
