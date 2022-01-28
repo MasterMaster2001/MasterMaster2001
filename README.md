@@ -26,6 +26,14 @@
   1. Objectif
   2. La mise en œuvre nécessaire pour ce programme.
   3. bibliothèques nécessaires à la compilation de ce programme                                          (pour chaque fichier).
+  4. Page de connexion principale (5 boutons peuvent effectuer différentes actions)
+  5. Pour la page utilisateur : (bouton s'inscrire)
+  6. Pour la page utilisateur : (bouton de connexion) et boîte de dialogue suivante
+  7. Pour la page d'administration : (bouton s'inscrire)
+  8. Pour la page d'administration : (bouton de connexion) et boîte de dialogue suivante
+  9. Pour la page principale (bouton quitter)
+ 10. UML, test unitaire pour chaque classe (maintenance du système)
+ 11. Contactez le fabricant
 
 
 * * *
@@ -43,7 +51,7 @@ Cette application en tant que simulation peut aider les gens à planifier facile
      <h1 align="left">2.	La mise en œuvre nécessaire pour ce programme :</h2>
       <h3 align="left">DB (Data Base) Navigateur pour SQLite :</h2>
 Stockez toutes les données dont nous avons besoin pour ce programme, il est inclus deux tables (table utilisateur, table admin)
-<h3 align="left"> Source file ( Three imgs and qss styles):</h2>
+<h3 align="left"> Source file ( trois images:</h2>
 
   </p>
  </p>
