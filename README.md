@@ -120,7 +120,13 @@ Stockez toutes les données dont nous avons besoin pour ce programme, il est inc
   ```
      
  </p>
+ 
  * * *
  
+ <p>
+  <p align=left>  <h1 align="left"> 5. Pour la page utilisateur : (bouton s'inscrire):</h1></p>
+ </p>
  
+ 
+
 
