@@ -2,7 +2,7 @@
 <!-- Logo -->
 <p>
   <p align=left>
-     <h2 align=euromed</h2>
+    <img src="eidiaeuro.png" width=200 height=100 align= right>
     <img src="euromed.png" width=200 height=100 align= right>
   </p>
  </p>
