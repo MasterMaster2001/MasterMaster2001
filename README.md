@@ -1063,3 +1063,6 @@ une fois on clique sur le bouton **saved**.les information sont enregister a cot
   <p align=left>  <h1 align="left"> 9.Pour la page principale (bouton quitter)</h1></p>
  </p>
 Une fois que l’utilisateur a cliqué sur le bouton Quitter, la boîte Qmessage saute:Oui pour **quitter** le système, non pour **rester**.
+
+
+![quiter](https://user-images.githubusercontent.com/93833171/151661855-a377ed3c-ccb3-439d-9406-81cac0e6bf22.jpg)
