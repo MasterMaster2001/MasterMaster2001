@@ -1003,7 +1003,7 @@ Sinon, il affichera une erreur jusqu’à ce que vous saisissiez le nom d’util
 #### cas 1: on entre le nom d'utilisateur n'est pas correct:
 ![login](https://user-images.githubusercontent.com/93833171/151637727-a5f11d58-9f52-4467-a1c7-9aec2e766bd2.png)
 
-#### cas 1:on assure le nom d’utilisateur et le mot de passe sont corrects en même temps.
+#### cas 2:on assure le nom d’utilisateur et le mot de passe sont corrects en même temps.
 On Pasee directement à d'autres interface:
 
 ![interface](https://user-images.githubusercontent.com/93833171/151639419-8440f1cd-d7a6-4994-9f8a-295b5ad28b49.jpg)
@@ -1038,11 +1038,14 @@ comme ça.
 Ensuite, après avoir cliqué sur le bouton « **Load Data** », toutes les données de la base de données seront 
 télécharger sur la vue de tableau( la zone noire et aussi chaque textEditLine.
 En outre, il y a trois boutons qui sont cliquables.
-**Bouton Enregistrer :** Pour enregistrer toute l’imformation du côté de l’administrateur. Entrez toute l’imformation 
+
+**Save button:** Pour enregistrer toute l’imformation du côté de l’administrateur. Entrez toute l’imformation 
 sur le texte a fait une ligne, puis appuyez sur le bouton Enregistrer. Le rendez-vous vaccinal de l’utilisateur sera 
 sauvé.
 
-**Bouton Mettre à jour:** Pour modifier et mettre à jour l’imformation à partir du système de base de données, au cas où, 
+**Update button:** Pour modifier et mettre à jour l’imformation à partir du système de base de données, au cas où, 
 n’importe qui veut changer l’imformation qu’il a enregistrée auparavant.
 
-**Bouton Supprimer :** pour supprimer toute imformation que l’utilisateur a enregistrée auparavant.
+**Delete button:** pour supprimer toute imformation que l’utilisateur a enregistrée auparavant.
+Votre écran ressemblera à ceci:
+
