@@ -69,7 +69,9 @@ Stockez toutes les données dont nous avons besoin pour ce programme, il est inc
  
  * * *
  <p>
-  <p align=left>  <h1 align="left">A. main.cpp :</12></p>
+  <p align=left>  <h1 align="left">A. main.cpp :</h></p>
+  
+  <p align=left>  <h4 align="left">
   
   ```cpp
 #include "Login.h"
@@ -92,9 +94,12 @@ int main(int argc, char *argv[])
     return a.exec();  // make the program keep running, wait the event happen
 }
 
-
   ```
-   <p align=left>  <h1 align="left">B. Login.cpp:</12></p>
+  </h4></p>
+  
+   <p align=left>  <h1 align="left">B. Login.cpp:</></p>
+  
+  <p align=left>  <h4 align="left">
    
   ```cpp
 #include "Login.h"
@@ -258,10 +263,12 @@ void Login::on_pushButton_loginQuit_clicked(){
     }
 }
 
-
    ```
+  </h4></p>
 <p align=left>  <h1 align="left">B. Login.h:</12></p>
-     
+  
+  <p align=left>  <h4 align="left">
+  
  ```cpp
 #ifndef LOGIN_H
 #define LOGIN_H
@@ -322,9 +329,13 @@ private:
 #endif // LOGIN_H
 
 ```
+  </h4></p>
 <p align=left>  <h1 align="left">C. User.cpp:</12></p>
-    
+  
+  <p align=left>  <h4 align="left">
+  
  ```cpp
+  
 #include "user.h"
 #include "Login.h"
 #include <iostream>
@@ -371,10 +382,15 @@ User::User(QString un, QString pw, QString insur, QString fn, QString ln, QStrin
     this->date = date;
     this->time = time;
 }
+  
+```
+</h4></p>
+  
 
- ```
  <p align=left>  <h1 align="left">C. User.h:</12></p>
- 
+  
+  <p align=left>  <h4 align="left">
+  
  ```cpp
  #pragma once
 
@@ -425,7 +441,11 @@ public:
 #endif // USER_H
  
  ```
+  </h4></p>
+  
 <p align=left>  <h1 align="left">D. UserDialog1.cpp:</12></p>
+ 
+ <p align=left>  <h4 align="left">
   
  ```cpp
 #include <QDialog>
@@ -593,8 +613,12 @@ void UserDialog1::on_comboBox_hours_activated(const QString &arg1){
     tim = arg1;
 }
 
-  ```
-  <p align=left>  <h1 align="left">D. UserDialog1.h:</12></p>
+```
+</h4></p>
+  
+<p align=left>  <h1 align="left">D. UserDialog1.h:</12></p>
+  
+<p align=left>  <h4 align="left">  
   
   ```cpp
   #ifndef USERDIALOG1_H
@@ -653,9 +677,14 @@ private:
 };
 
 #endif // USERDIALOG1_H
+  
   ```
   
+  </h4></p>
+  
  <p align=left>  <h1 align="left"> E. AdminDialog1.cpp:</12></p>
+  
+<p align=left>  <h4 align="left">
   
 ```cpp
 #include "AdminDialog1.h"
@@ -916,14 +945,17 @@ void AdminDialog1::on_pushButton_quit_clicked(){
 }
 
   ```
-     
+ </12></p> 
+  
  </p>
  
  <p>
-  <p align=left>  <h1 align="left"> E. AdminDialog1.cpp:</12></p>
+  <p align=left>  <h1 align="left"> E. AdminDialog1.h:</12></p>
+  
+  <p align=left>  <h4 align="left">
   
   ```cpp
-  #ifndef ADMINDIALOG1_H
+ #ifndef ADMINDIALOG1_H
 #define ADMINDIALOG1_H
 
 #include <QDialog>
@@ -965,7 +997,10 @@ private:
 };
 
 #endif // ADMINDIALOG1_H
+  
   ```
+  </h4></p>
+  
  </p>
  
  * * *
