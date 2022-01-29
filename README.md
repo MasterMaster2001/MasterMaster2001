@@ -33,8 +33,6 @@
   7. Pour la page d'administration : (bouton s'inscrire)
   8. Pour la page d'administration : (bouton de connexion) et boîte de dialogue suivante
   9. Pour la page principale (bouton quitter)
- 10. UML, test unitaire pour chaque classe (maintenance du système)
- 11. Contactez le fabricant
 
 
 * * *
