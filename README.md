@@ -141,5 +141,12 @@ de retour dans le système. Donc, la prochaine fois, cet administrateur a ses in
  <p>
   <p align=left>  <h1 align="left"> 6. Pour la page utilisateur : (Button Login) et boîte de dialogue suivante</h1></p>
  </p>
+ Pour les personnes qui utilisent avec ce système, vous devez d’abord entrer deux choses et vous assurer que 
+le nom d’utilisateur et le mot de passe sont corrects en même temps. 
 
+Ensuite, après avoir cliqué sur le bouton de connexion, les informations correspondront à la base de données. 
+Sinon, il affichera une erreur jusqu’à ce que vous saisissiez le nom d’utilisateur et le mot de passe corrects.
+
+#### cas 1: on entre le nom d'utilisateur n'est pas correct:
+![login](https://user-images.githubusercontent.com/93833171/151637727-a5f11d58-9f52-4467-a1c7-9aec2e766bd2.png)
 
