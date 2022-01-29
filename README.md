@@ -64,8 +64,8 @@ Stockez toutes les données dont nous avons besoin pour ce programme, il est inc
  </p>
 
 
-![nouvelle_interface](https://user-images.githubusercontent.com/93833171/151639613-aa6d3853-585a-4136-b248-1a72b68b7483.jpg)
 
+![interface_zas](https://user-images.githubusercontent.com/93833171/151639759-19b499ad-69ca-4966-95c6-39d8bef5b9bb.jpg)
 
 * * *
 <p>
@@ -156,3 +156,8 @@ Sinon, il affichera une erreur jusqu’à ce que vous saisissiez le nom d’util
 On Pasee directement à d'autres interface:
 
 ![interface](https://user-images.githubusercontent.com/93833171/151639419-8440f1cd-d7a6-4994-9f8a-295b5ad28b49.jpg)
+
+ <p>
+  <p align=left>  <h1 align="left"> 7.Pour la page d'administration : (Button Register)</h1></p>
+ </p>
+
