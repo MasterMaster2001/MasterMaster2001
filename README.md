@@ -1061,4 +1061,5 @@ Une fois que l’utilisateur a cliqué sur le bouton Quitter, la boîte Qmessage
 
 ![quiter](https://user-images.githubusercontent.com/93833171/151661855-a377ed3c-ccb3-439d-9406-81cac0e6bf22.jpg)
 
+* * *
 ![titre](https://user-images.githubusercontent.com/93833171/151644405-8e4e79c2-22b6-4cf1-a974-0bf2bf4eb3d2.jpg)
