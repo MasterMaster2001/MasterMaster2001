@@ -1059,5 +1059,7 @@ Votre écran ressemblera à ceci:
 une fois on clique sur le bouton **saved**.les information sont enregister a cote de l'administrateur:
 ![saved](https://user-images.githubusercontent.com/93833171/151661410-3a339813-d9b6-47bd-835c-c9c94bd7ebe9.jpg)
 
-
-
+ <p>
+  <p align=left>  <h1 align="left"> 9.Pour la page principale (bouton quitter)</h1></p>
+ </p>
+Une fois que l’utilisateur a cliqué sur le bouton Quitter, la boîte Qmessage saute:Oui pour **quitter** le système, non pour **rester**.
