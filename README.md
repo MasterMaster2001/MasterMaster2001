@@ -151,4 +151,6 @@ Sinon, il affichera une erreur jusqu’à ce que vous saisissiez le nom d’util
 ![login](https://user-images.githubusercontent.com/93833171/151637727-a5f11d58-9f52-4467-a1c7-9aec2e766bd2.png)
 
 #### cas 1:on assure le nom d’utilisateur et le mot de passe sont corrects en même temps.
-On Pasee directement à d'autres interface: 
+On Pasee directement à d'autres interface:
+
+![interface](https://user-images.githubusercontent.com/93833171/151639419-8440f1cd-d7a6-4994-9f8a-295b5ad28b49.jpg)
