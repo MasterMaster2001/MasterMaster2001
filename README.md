@@ -1052,4 +1052,5 @@ Votre écran ressemblera à ceci:
 
 ![s_z_a](https://user-images.githubusercontent.com/93833171/151660913-c6ac0832-13c7-4002-8e8a-48e51cb1b4a4.jpg)
 
-si par exemple on va creer un nouveau utilisateur:
+une fois on clique sur le bouton **saved**
+
