@@ -266,9 +266,9 @@ void Login::on_pushButton_loginQuit_clicked(){
 
 
    ```
-     <p align=left>  <h1 align="left">B. Login.h:</12></p>
+<p align=left>  <h1 align="left">B. Login.h:</12></p>
      
-     ```h
+ ```cpp
      #ifndef LOGIN_H
 #define LOGIN_H
 #include <QMainWindow>
