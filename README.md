@@ -1049,3 +1049,5 @@ n’importe qui veut changer l’imformation qu’il a enregistrée auparavant.
 **Delete button:** pour supprimer toute imformation que l’utilisateur a enregistrée auparavant.
 Votre écran ressemblera à ceci:
 
+
+![s_z_a](https://user-images.githubusercontent.com/93833171/151660913-c6ac0832-13c7-4002-8e8a-48e51cb1b4a4.jpg)
