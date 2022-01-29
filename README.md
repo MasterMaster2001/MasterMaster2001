@@ -1052,5 +1052,8 @@ Votre écran ressemblera à ceci:
 
 ![s_z_a](https://user-images.githubusercontent.com/93833171/151660913-c6ac0832-13c7-4002-8e8a-48e51cb1b4a4.jpg)
 
-une fois on clique sur le bouton **saved**
+une fois on clique sur le bouton **saved**.les information sont enregister a cote de l'administrateur:
+![saved](https://user-images.githubusercontent.com/93833171/151661410-3a339813-d9b6-47bd-835c-c9c94bd7ebe9.jpg)
+
+
 
