@@ -984,6 +984,7 @@ private:
 ils sont tous corrects, et se souviennent aussi d’eux. Pour le nom d’utilisateur et le mot de passe, il peut s’agir d’une chaîne, d’un caractère, 
 nombre. Le nom d’utilisateur est Unique.
 
+
 Une fois que l’utilisateur a entré deux informations, il enregistrera le nom d’utilisateur et le mot de passe dans la base de données. 
 de retour dans le système. Donc, la prochaine fois, cet administrateur a ses informations enregistrées dans la base de données.
 
@@ -1029,6 +1030,10 @@ code de travail dans la base de données dans le système. Donc la prochaine foi
 les informations enregistrées dans la base de données. Cela ressemblera à ceci:
 
 ![zineb1](https://user-images.githubusercontent.com/93833171/151642158-5afc5da9-1925-4a5c-b73f-6d1698dced82.png)
+
+ <p>
+  <p align=left>  <h1 align="left"> 8.Pour la page d'administration : (Button login)</h1></p>
+ </p>
 
 Si vous avez fait les choses correctes comme vous vous êtes inscrit à la première fois. La deuxième boîte de dialogue sautera 
 comme ça.
